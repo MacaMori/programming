@@ -1,4 +1,4 @@
-# Welcome to Carter Newberg's Programmiing Portfolio
+# Welcome to Maxim Dobrovinsky's Programming Portfolio
 
 ## Programming Semester 1 Projects:
 

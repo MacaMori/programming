@@ -21,7 +21,7 @@ Screen Saver Application Made in Processing
 
 ## Programming Semester 2 Projects:
 
-### 99 Bottles App
+### 99 Bottles
 
 99 Bottles Application Made in Replit in Python
 

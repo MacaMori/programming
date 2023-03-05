@@ -14,7 +14,7 @@ OOP Graphic Calculator using processing IDE
 
 Screen Saver
 
-![Screen Saver](https://github.com/MacaMori/programming/blob/gh-pages/images/screensaver.png)
+![Screen Saver](https://github.com/MacaMori/programming/blob/gh-pages/images/screensaver.png?raw=true)
 
 [Source Code](https://github.com/MacaMori/programming/blob/gh-pages/src/screensaver.pde)
 
@@ -25,7 +25,7 @@ Screen Saver
 
 99 Bottles
 
-![99 Bottles](https://github.com/MacaMori/programming/blob/gh-pages/images/99%20bottles.png)
+![99 Bottles](https://github.com/MacaMori/programming/blob/gh-pages/images/99%20bottles.png?raw=true)
 
 [Source Code](https://github.com/MacaMori/programming/blob/gh-pages/src/99%20bottles.py)
 
@@ -33,6 +33,6 @@ Screen Saver
 
 Cars
 
-![Cars](https://github.com/MacaMori/programming/blob/gh-pages/images/cars.png)
+![Cars](https://github.com/MacaMori/programming/blob/gh-pages/images/cars.png?raw=true)
 
 [Source Code](https://github.com/MacaMori/programming/tree/gh-pages/src/cars%20assingment/NEWcarsAssingment)

@@ -4,7 +4,7 @@
 
 ### Calculator
 
-OOP Graphic Calculator using processing IDE
+Graphic Calculator Application Made in Processing
 
 ![Calculator](https://github.com/MacaMori/programming/blob/gh-pages/images/calculator.png?raw=true)
 
@@ -12,7 +12,7 @@ OOP Graphic Calculator using processing IDE
 
 ### Screen Saver
 
-Screen Saver
+Screen Saver Application Made in Processing
 
 ![Screen Saver](https://github.com/MacaMori/programming/blob/gh-pages/images/screensaver.png?raw=true)
 
@@ -23,7 +23,7 @@ Screen Saver
 
 ### 99 Bottles App
 
-99 Bottles
+99 Bottles Application Made in Replit in Python
 
 ![99 Bottles](https://github.com/MacaMori/programming/blob/gh-pages/images/99%20bottles.png?raw=true)
 
@@ -31,7 +31,7 @@ Screen Saver
 
 ### Cars
 
-Cars
+Cars Test Application Made in Processing
 
 ![Cars](https://github.com/MacaMori/programming/blob/gh-pages/images/cars.png?raw=true)
 

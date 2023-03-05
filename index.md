@@ -6,7 +6,7 @@
 
 OOP Graphic Calculator using processing IDE
 
-![Calculator](https://github.com/MacaMori/programming/blob/gh-pages/images/calculator.png)
+![Calculator](https://github.com/MacaMori/programming/blob/gh-pages/images/calculator.png?raw=true)
 
 [Source Code](https://github.com/MacaMori/programming/tree/gh-pages/src/calculator%20project)
 

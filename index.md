@@ -2,6 +2,37 @@
 
 ## Programming Semester 1 Projects:
 
+### Calculator
+
+OOP Graphic Calculator using processing IDE
+
+![Calculator](https://github.com/MacaMori/programming/blob/gh-pages/images/calculator.png)
+
+[Source Code](https://github.com/MacaMori/programming/tree/gh-pages/src/calculator%20project)
+
+### Screen Saver
+
+Screen Saver
+
+![Screen Saver](https://github.com/MacaMori/programming/blob/gh-pages/images/screensaver.png)
+
+[Source Code](https://github.com/MacaMori/programming/blob/gh-pages/src/screensaver.pde)
+
+
 ## Programming Semester 2 Projects:
 
-### Calculator Project
+### 99 Bottles App
+
+99 Bottles
+
+![99 Bottles](https://github.com/MacaMori/programming/blob/gh-pages/images/99%20bottles.png)
+
+[Source Code](https://github.com/MacaMori/programming/blob/gh-pages/src/99%20bottles.py)
+
+### Cars
+
+Cars
+
+![Cars](https://github.com/MacaMori/programming/blob/gh-pages/images/cars.png)
+
+[Source Code](https://github.com/MacaMori/programming/tree/gh-pages/src/cars%20assingment/NEWcarsAssingment)

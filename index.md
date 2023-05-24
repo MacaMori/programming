@@ -1,4 +1,4 @@
-# Welcome to Maxim Dobrovinsky's Programming Portfolio
+# Maxim Dobrovinsky's Programming Portfolio
 
 ## Programming Semester 1 Projects:
 
@@ -18,6 +18,13 @@ Screen Saver Application Made in Processing
 
 [Source Code](https://github.com/MacaMori/programming/blob/gh-pages/src/screensaver.pde)
 
+### Space Game
+
+Spaceship Game Made in Processing
+
+![Space Game](https://github.com/MacaMori/programming/blob/gh-pages/images/SpaceGame.png?raw=true)
+
+[Source Code](https://github.com/MacaMori/programming/tree/gh-pages/src/SpaceGame)
 
 ## Programming Semester 2 Projects:
 
